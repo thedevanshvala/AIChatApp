@@ -1,6 +1,6 @@
 \---
 
-title: AI Coding Assistant
+title: BakchodAI
 
 emoji: 🤖
 

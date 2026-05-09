@@ -1,0 +1,6 @@
+/venv
+/backend/__pycache__
+/backend/.env
+/backend/.venv
+/cloudflared.exe
+/backend/*.db

@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-multipart
+python-dotenv
+groq
+pymupdf
+python-docx
+python-pptx
+openpyxl
